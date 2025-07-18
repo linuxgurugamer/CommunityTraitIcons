@@ -1,31 +1,31 @@
 {
-	"NAME":"Community Trait Icons",
-	"URL":"https://raw.githubusercontent.com/cake-pie/CommunityTraitIcons/master/GameData/CommunityTraitIcons/CommunityTraitIcons.version",
-	"DOWNLOAD":"https://github.com/cake-pie/CommunityTraitIcons/releases",
-	"GITHUB":{
-		"USERNAME":"cake-pie",
-		"REPOSITORY":"CommunityTraitIcons",
-		"ALLOW_PRE_RELEASE":false,
+	"NAME": "Community Trait Icons",
+	"URL": "https://raw.githubusercontent.com/linuxgurugamer/CommunityTraitIcons/refs/heads/master/CommunityTraitIcons.version",
+	"DOWNLOAD": "https://github.com/linuxgurugamer/CommunityTraitIcons/releases",
+	"GITHUB": {
+		"USERNAME": "linuxgurugamer",
+		"REPOSITORY": "CommunityTraitIcons",
+		"ALLOW_PRE_RELEASE": false
 	},
-	"VERSION":{
-		"MAJOR":1,
-		"MINOR":1,
-		"PATCH":1,
-		"BUILD":0
+	"VERSION": {
+		"MAJOR": 1,
+		"MINOR": 1,
+		"PATCH": 2,
+		"BUILD": 0
 	},
-	"KSP_VERSION":{
-		"MAJOR":1,
-		"MINOR":7,
-		"PATCH":0
+	"KSP_VERSION": {
+		"MAJOR": 1,
+		"MINOR": 12,
+		"PATCH": 5
 	},
-	"KSP_VERSION_MIN":{
-		"MAJOR":1,
-		"MINOR":3,
-		"PATCH":0
+	"KSP_VERSION_MIN": {
+		"MAJOR": 1,
+		"MINOR": 9,
+		"PATCH": 0
 	},
-	"KSP_VERSION_MAX":{
-		"MAJOR":1,
-		"MINOR":7,
-		"PATCH":8
+	"KSP_VERSION_MAX": {
+		"MAJOR": 1,
+		"MINOR": 12,
+		"PATCH": 99
 	}
 }

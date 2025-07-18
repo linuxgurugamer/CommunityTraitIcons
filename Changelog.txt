@@ -1,2 +1,7 @@
 Changelog
 
+1.1.2
+	Adoption by Linuxgurugamer
+	Added InstallChecker
+	Added AssemblyVersion.tt
+	Recompiled for 1.12
