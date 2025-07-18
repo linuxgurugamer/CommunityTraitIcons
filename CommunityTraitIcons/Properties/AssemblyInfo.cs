@@ -9,5 +9,3 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyCopyright ("Copyright ©  2015-2019")]
 [assembly: AssemblyTrademark ("")]
 [assembly: AssemblyCulture ("")]
-
-[assembly: KSPAssembly("CommunityTraitIcons", 1, 1, 1)]
